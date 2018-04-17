@@ -13,7 +13,8 @@ dataset can be found at the link above.
 We constructed 4 machine learning models, including a logistic regression model, an SVC model, a
 LinearSVC model, and a Naive Bayes model. We then split the data set into a training set and a testing
 set (about an 80/20 split). For each model, we then trained on the training data and experimented with 
-their respective hyperparameters to determine the combination that optimized their accuracy on the test data. 
+their respective hyperparameters to determine the combination that optimized their accuracy on the test data.
+All of the source code for this can be found in ethWiCS/Engaging_with_Ethucation.ipynb
 
 We found that the Logistic Regression model was able to predict performance with the highest accuracy,
 but our search was far from exhaustive. Limiting factors included computing power and time. Given
