@@ -1,4 +1,4 @@
-<h1><b>ethWiCS Hack Overflow Hackathon Project<\b><\h1>
+<h1>ethWiCS Hack Overflow Hackathon Project</h1>
 
 Contributors: Mac Bagwell, Matthew King, Megumi Sano, Julia Gong, Ben Newman
 
