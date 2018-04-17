@@ -1,5 +1,6 @@
 ethWiCS
 Hack Overflow Hackathon project
+Contributors: Mac Bagwell, Matthew King, Megumi Sano, Julia Gong, Ben Newman
 
 Using the Kaggle dataset https://www.kaggle.com/aljarah/xAPI-Edu-Data
 
