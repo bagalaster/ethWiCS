@@ -18,9 +18,8 @@ All of the source code for this can be found in ethWiCS/Engaging_with_Ethucation
 
 We found that the Logistic Regression model was able to predict performance with the highest accuracy,
 but our search was far from exhaustive. Limiting factors included computing power and time. Given
-more resources, we would have liked to conduct more preliminary analysis on the data (for example,
-perhaps Lasso regression on each individual feature to see which features are the best predictors of
-performance) as well as a more exhaustive grid search of the hyperparameters.
+more resources, we would have liked to conduct more preliminary analysis on the data as well as a more 
+exhaustive grid search of the hyperparameters.
 
 We would also have liked to investigate other potentially deeper biases in the data. For example, 
 in some of the preliminary analysis of the data, we found that for male students, participation 
